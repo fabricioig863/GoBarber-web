@@ -6,12 +6,13 @@ import {
   FiXCircle,
 } from 'react-icons/fi';
 
+import { CSSProperties } from 'styled-components';
 import { ToastMessage, useToast } from '../../../hooks/toast';
 import { Container } from './styles';
 
 interface ToastProps {
   message: ToastMessage;
-  style: object;
+  style: CSSProperties;
 }
 
 const icons = {
