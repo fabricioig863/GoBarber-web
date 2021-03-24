@@ -1,5 +1,5 @@
 <h2 align="center">
-	🚧 Gobarber Mobile 🚀 Em construção...  🚧
+	🚧 Gobarber Web 🚀 Em construção...  🚧
 </h2>
 
 ### 🛠 Tecnologias
